@@ -1,0 +1,4 @@
+Begining with Python - an introduction
+============================
+
+Python can be downloaded from (www.python.org). According to one's operating system, one should choose a particular version and install acording to the instruction. Beside Python, one has to install library packages essential for scientific computation, like NumPy, SciPy, Matplotlib etc. After that one is ready to start coding with Python. Coding with Python is relatively easy and it is very much interactive. Here, I shall use Jupyter Notebook for coding and interactive demonstration. If one does not want to install Python in the machine due to some limitation, then, there is an alternative course to work with Python. If internet connectivity is available, one can opt for cloud computing. In that case, one can log on to (www.colab.research.google.com) and start coding without taking the trouble of installation of any packages.
