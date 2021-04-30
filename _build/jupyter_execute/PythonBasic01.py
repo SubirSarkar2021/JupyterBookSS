@@ -1046,7 +1046,8 @@ r = sqrt( x**2 + y**2 )
 
 print("The value of r: " + str(round(r, 2)) + " and the value of θ (degree): " +str(round(θ, 2)))
 
+For more detail, one may go through the book of Computational Physics by Mark Newman. {cite}`newman2013computational`
+
 # Bibliography:
-```
-{bibliography}
+```{bibliography}
 ```
